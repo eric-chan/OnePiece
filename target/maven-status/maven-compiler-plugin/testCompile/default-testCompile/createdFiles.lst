@@ -1,0 +1,12 @@
+main_place/KeyreaderTest.class
+objects/RewardTest.class
+main_place/MyPanelTest.class
+characters/PlayerTest.class
+characters/TrapeTest.class
+board/MapGeneratorTest.class
+objects/StaticEnvironmentalObjectTest.class
+characters/GameObjectTest.class
+main_place/SoundTest.class
+main_place/CameraControllerTest.class
+characters/DynamicObjectTest.class
+characters/MonsterTest.class
