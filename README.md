@@ -1,8 +1,4 @@
-# One Piece - CMPT 276 Project
-
-Group 17's project for CMPT 276 for the Spring 2022 semester. 
-
-Video: https://youtu.be/bN_H4vcUbUE
+# One Piece
 
 ![](ezgif.com-gif-maker.gif)
 
