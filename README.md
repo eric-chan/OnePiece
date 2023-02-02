@@ -12,7 +12,7 @@ Setup instructions:
 * IntelliJ installed is a bonus 
 
 Open terminal and clone the git repository by running:
-* $ git clone https://csil-git1.cs.surrey.sfu.ca/cmpt276s22_group17/project.git
+* $ git clone https://github.com/eric-chan/OnePiece.git
 
 To build the maven program:
 * mvn package
